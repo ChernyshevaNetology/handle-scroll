@@ -6,6 +6,6 @@
 Нужно найти, объяснить и исправить как можно больше проблем в реализации
 
    
-[View Demo](https://github.com/facebook/create-react-app).
+[View Demo](https://chernyshevanetology.github.io/handle-scroll/).
 
 
